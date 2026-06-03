@@ -34,35 +34,35 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alokbhagat971-bit&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokbhagat971-bit&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=alokbhagat971-bit&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project                                                            | Tech                 | Description                           |
-| ------------------------------------------------------------------ | -------------------- | ------------------------------------- |
-| [🛒 E-commerce App](https://github.com/YOUR_USERNAME/project)      | React, Node, MongoDB | Full-stack store with auth & payments |
-| [🤖 ML Image Classifier](https://github.com/YOUR_USERNAME/project) | Python, TensorFlow   | CNN trained on custom dataset         |
-| [⚡ Portfolio Site](https://github.com/YOUR_USERNAME/project)      | Next.js, Tailwind    | My personal dev portfolio             |
+| Project                                                                | Tech                 | Description                           |
+| ---------------------------------------------------------------------- | -------------------- | ------------------------------------- |
+| [🛒 E-commerce App](https://github.com/alokbhagat971-bit/project)      | React, Node, MongoDB | Full-stack store with auth & payments |
+| [🤖 ML Image Classifier](https://github.com/alokbhagat971-bit/project) | Python, TensorFlow   | CNN trained on custom dataset         |
+| [⚡ Portfolio Site](https://github.com/alokbhagat971-bit/project)      | Next.js, Tailwind    | My personal dev portfolio             |
 
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alokbhagat971-bit&theme=tokyo-night&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=alokbhagat971-bit&theme=tokyonight&no-frame=true&margin-w=4)
 
 ---
 
