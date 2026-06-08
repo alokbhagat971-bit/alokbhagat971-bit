@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Alok%20Bhagat&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20JavaScript%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Alok%20Bhagat&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20JavaScript%20%7C%20React%20%7C%20Node.js&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -9,23 +8,24 @@
 
 <div align="center">
 
-### 👋 Hey there! I'm **Alok Bhagat**
+### 👋 Hi, I'm **Alok Bhagat**
 
-A passionate full-stack developer who loves building real-world web applications and turning ideas into functional, user-friendly products.
+A self-driven full-stack developer building real-world web applications — from full-stack MERN apps to browser games — one project at a time.
 
-[![GitHub](https://img.shields.io/badge/GitHub-alokbhagat971--bit-181717?style=for-the-badge&logo=github)](https://github.com/alokbhagat971-bit)
+[![GitHub followers](https://img.shields.io/github/followers/alokbhagat971-bit?label=Follow&style=social)](https://github.com/alokbhagat971-bit)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🙋‍♂️ About Me
 
-- 🔭 Currently building full-stack apps using **React, Node.js, Express & MongoDB**
-- 🌱 Learning and growing through hands-on projects
-- 💡 I enjoy solving real-world problems with clean, practical code
-- 🎯 Goal: Become a well-rounded software engineer with strong fundamentals
-- ⚡ Fun fact: I built a working **Ludo game** in vanilla JavaScript!
+- 🔭 Building full-stack projects using the **MERN stack** (MongoDB, Express, React, Node.js)
+- 🌱 Currently sharpening my skills in backend development and authentication flows
+- 💡 I learn best by building — every repo here is a real project, not just tutorial code
+- 🎯 Focused on writing clean, practical, and user-first applications
+- 🎲 Built a fully playable **Ludo game** in vanilla JavaScript — just for fun!
+- 📍 Based in India
 
 ---
 
@@ -33,46 +33,60 @@ A passionate full-stack developer who loves building real-world web applications
 
 <div align="center">
 
-### Frontend
+**Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend
+**Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Database & Auth
+**Database & Auth**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### Tools
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-<div align="center">
+### 🔵 Full-Stack (MERN)
 
-| Project                | Description                                                    | Tech Stack                    | Repo                                                           |
-| ---------------------- | -------------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------- |
-| 📝 **Notes App**       | Full-stack notes app with auth — create, search & delete notes | React, Node, MongoDB, JWT     | [View →](https://github.com/alokbhagat971-bit/Notes-App)       |
-| 💸 **Expense Manager** | Track daily expenses with user-specific data & authentication  | React, Node, Express, MongoDB | [View →](https://github.com/alokbhagat971-bit/Expense-Manager) |
-| 🎬 **Movie App**       | Search movies, view ratings & overviews using live API data    | HTML, CSS, JavaScript         | [View →](https://github.com/alokbhagat971-bit/Movie-App)       |
-| 🌤️ **Weather App**     | Real-time weather with audio/visual effects by condition       | HTML, CSS, JavaScript         | [View →](https://github.com/alokbhagat971-bit/Weather-app)     |
-| 🎲 **Ludo Game**       | Classic Ludo board game with full game logic in the browser    | HTML, CSS, JavaScript         | [View →](https://github.com/alokbhagat971-bit/Ludo_Game)       |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [📝 Notes App](https://github.com/alokbhagat971-bit/Notes-App) | Create, search & delete notes with user authentication | React, Node, Express, MongoDB, JWT |
+| [💸 Expense Manager](https://github.com/alokbhagat971-bit/Expense-Manager) | Track daily expenses — each user sees only their own data | React, Node, Express, MongoDB, JWT |
 
-</div>
+### 🟡 Frontend / API Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🎬 Movie App](https://github.com/alokbhagat971-bit/Movie-App) | Search movies and view poster, rating & overview via live API | HTML, CSS, JavaScript |
+| [🌤️ Weather App](https://github.com/alokbhagat971-bit/Weather-app) | Real-time weather display with audio/visual by condition | HTML, CSS, JavaScript |
+
+### 🟢 Just for Fun
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🎲 Ludo Game](https://github.com/alokbhagat971-bit/Ludo_Game) | Fully playable browser-based Ludo with complete game logic | HTML, CSS, JavaScript |
+
+### 📌 First Steps
+
+| Project | Description |
+|---------|-------------|
+| [alokbhagat-projects](https://github.com/alokbhagat971-bit/alokbhagat-projects) | My very first Git repository — where it all started |
 
 ---
 
@@ -80,61 +94,38 @@ A passionate full-stack developer who loves building real-world web applications
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alokbhagat971-bit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokbhagat971-bit&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=alokbhagat971-bit&theme=tokyonight&hide_border=true)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=alokbhagat971-bit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokbhagat971-bit&layout=compact&langs_count=5&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 💬 What I'm Working Towards
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alokbhagat971-bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Alok's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alokbhagat971-bit&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+```text
+✅ Building full-stack apps with auth and user-specific data
+✅ Working with REST APIs and async JavaScript
+✅ Structuring clean frontend UIs with React
+🔄 Improving project deployment and CI/CD basics
+🔄 Exploring TypeScript
+⬜ Contributing to open source
+```
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect!
+### 🤝 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/alokbhagat971-bit)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/alokbhagat971-bit)
 
----
+<br/>
+
+*"Every expert was once a beginner. Every pro was once an amateur."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-_"First, solve the problem. Then, write the code."_ — John Johnson
-
-![Profile Views](https://komarev.com/ghpvc/?username=alokbhagat971-bit&label=Profile%20Views&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=alokbhagat971-bit&label=Profile+Views&color=blueviolet&style=flat)
 
 </div>
