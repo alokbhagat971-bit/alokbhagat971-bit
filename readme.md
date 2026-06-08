@@ -1,73 +1,140 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+Python;Building+cool+stuff+%F0%9F%8C%9F)](https://git.io/typing-svg)
+<div align="center">
 
-### Hi there 👋 I'm [Your Name]
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Alok%20Bhagat&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20JavaScript%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-🎓 CS student passionate about full-stack development  
-🌱 Currently learning: React, Node.js & ML basics  
-🔭 Working on: personal projects & open source  
-💬 Ask me about: JavaScript, Python, C++
+</div>
+
+---
+
+<div align="center">
+
+### 👋 Hey there! I'm **Alok Bhagat**
+
+A passionate full-stack developer who loves building real-world web applications and turning ideas into functional, user-friendly products.
+
+[![GitHub](https://img.shields.io/badge/GitHub-alokbhagat971--bit-181717?style=for-the-badge&logo=github)](https://github.com/alokbhagat971-bit)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently building full-stack apps using **React, Node.js, Express & MongoDB**
+- 🌱 Learning and growing through hands-on projects
+- 💡 I enjoy solving real-world problems with clean, practical code
+- 🎯 Goal: Become a well-rounded software engineer with strong fundamentals
+- ⚡ Fun fact: I built a working **Ludo game** in vanilla JavaScript!
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+<div align="center">
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+### Frontend
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**ML / AI**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### Database & Auth
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+<div align="center">
+
+| Project                | Description                                                    | Tech Stack                    | Repo                                                           |
+| ---------------------- | -------------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------- |
+| 📝 **Notes App**       | Full-stack notes app with auth — create, search & delete notes | React, Node, MongoDB, JWT     | [View →](https://github.com/alokbhagat971-bit/Notes-App)       |
+| 💸 **Expense Manager** | Track daily expenses with user-specific data & authentication  | React, Node, Express, MongoDB | [View →](https://github.com/alokbhagat971-bit/Expense-Manager) |
+| 🎬 **Movie App**       | Search movies, view ratings & overviews using live API data    | HTML, CSS, JavaScript         | [View →](https://github.com/alokbhagat971-bit/Movie-App)       |
+| 🌤️ **Weather App**     | Real-time weather with audio/visual effects by condition       | HTML, CSS, JavaScript         | [View →](https://github.com/alokbhagat971-bit/Weather-app)     |
+| 🎲 **Ludo Game**       | Classic Ludo board game with full game logic in the browser    | HTML, CSS, JavaScript         | [View →](https://github.com/alokbhagat971-bit/Ludo_Game)       |
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alokbhagat971-bit&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokbhagat971-bit&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alokbhagat971-bit&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alokbhagat971-bit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokbhagat971-bit&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
----
+</div>
 
-## 🚀 Featured Projects
+<div align="center">
 
-| Project                                                                | Tech                 | Description                           |
-| ---------------------------------------------------------------------- | -------------------- | ------------------------------------- |
-| [🛒 E-commerce App](https://github.com/alokbhagat971-bit/project)      | React, Node, MongoDB | Full-stack store with auth & payments |
-| [🤖 ML Image Classifier](https://github.com/alokbhagat971-bit/project) | Python, TensorFlow   | CNN trained on custom dataset         |
-| [⚡ Portfolio Site](https://github.com/alokbhagat971-bit/project)      | Next.js, Tailwind    | My personal dev portfolio             |
+![GitHub Streak](https://streak-stats.demolab.com?user=alokbhagat971-bit&theme=tokyonight&hide_border=true)
 
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alokbhagat971-bit&theme=tokyo-night&hide_border=true)
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=alokbhagat971-bit&theme=tokyonight&no-frame=true&margin-w=4)
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alokbhagat971-bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-## 🤝 Connect with me
+## 📈 Contribution Activity
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=todoist&logoColor=white)](https://yoursite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:you@email.com)
+<div align="center">
+
+[![Alok's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alokbhagat971-bit&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect!
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/alokbhagat971-bit)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+_"First, solve the problem. Then, write the code."_ — John Johnson
+
+![Profile Views](https://komarev.com/ghpvc/?username=alokbhagat971-bit&label=Profile%20Views&color=blueviolet&style=flat)
+
+</div>
