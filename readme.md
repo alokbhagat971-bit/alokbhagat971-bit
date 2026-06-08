@@ -1,43 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Alok%20Bhagat&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20ML%20Enthusiast%20%7C%20JavaScript%20%7C%20Python&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Alok%20Bhagat&fontSize=70&fontColor=58A6FF&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20ML%20Explorer%20%7C%20NIT%20Durgapur&descSize=18&descFontColor=8b949e&descAlignY=75&animation=twinkling" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=💼+Interning+%40+IISPPR+as+Full+Stack+Dev;🎓+Student+at+NIT+Durgapur;🚀+Building+real+things+that+ship;🤖+MERN+Stack+%2B+Machine+Learning;⚡+From+Ludo+games+to+AI+price+predictors!)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/alok-bhagat-06a951306/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/alokk_k121/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://github.com/alokbhagat971-bit">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=alokbhagat971-bit&label=Profile+Views&color=58a6ff&style=for-the-badge" />
 
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; About Me
+
+```typescript
+const alok: Developer = {
+  name:          "Alok Bhagat",
+  college:       "NIT Durgapur 🎓",
+  role:          "Full Stack Web Developer Intern @ IISPPR 💼",
+  location:      "India 🇮🇳",
+
+  languages:     ["JavaScript", "Python", "Java", "HTML", "CSS"],
+  frontend:      ["React", "Vite", "Tailwind CSS"],
+  backend:       ["Node.js", "Express.js", "Flask"],
+  database:      ["MongoDB"],
+  ml:            ["Scikit-learn", "Pandas", "NumPy", "Matplotlib"],
+  tools:         ["Git", "GitHub", "VS Code", "Jupyter"],
+
+  currentlyDoing: [
+    "🏢 Full Stack internship @ IISPPR",
+    "🤖 Learning ML algorithms, OpenCV & Computer Vision",
+    "🌍 Planning a full-stack ML app for social good",
+  ],
+
+  funFact:  "I built a fully playable Ludo game in vanilla JS 🎲",
+  motto:    "Tech should solve real problems. Build for impact. 🌍",
+};
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; Tech Arsenal
+
 <div align="center">
 
-### 👋 Hi, I'm **Alok Bhagat**
-
-A self-driven developer who builds real-world projects across the full stack — from MERN apps and machine learning models to browser games and booking platforms.
-
-[![GitHub followers](https://img.shields.io/github/followers/alokbhagat971-bit?label=Follow&style=social)](https://github.com/alokbhagat971-bit)
-
-</div>
-
----
-
-## 🙋‍♂️ About Me
-
-- 🎓 Student at **NIT Durgapur**
-- 💼 Currently interning as a **Full Stack Web Developer** at **IISPPR**
-- 🔭 Building full-stack apps with the **MERN stack** and exploring **Machine Learning**
-- 🤖 Trained ML models using **Scikit-learn**, **Linear Regression**, and **Jupyter Notebooks**
-- 💡 I learn by building — every repo here is a real project
-- 🚗 Built an **AI-powered car price predictor** using Flask + React + Linear Regression
-- 🎲 Also built a fully playable **Ludo game** in vanilla JavaScript — just for fun!
-- ☕ Explored **Java** for core logic with a deployed Calculator
-- 📍 Based in India
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Frontend**
-
+### ⚡ Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -45,19 +68,16 @@ A self-driven developer who builds real-world projects across the full stack —
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend**
-
+### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Database & Auth**
-
+### 🗄️ Database & Auth
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-**Machine Learning**
-
+### 🤖 Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -65,8 +85,7 @@ A self-driven developer who builds real-world projects across the full stack —
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Other**
-
+### 🧰 Tools & Others
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -74,60 +93,193 @@ A self-driven developer who builds real-world projects across the full stack —
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📂 Projects
+## 🚀 Projects Showcase
 
-### 🔵 Full-Stack MERN Apps
+<div align="center">
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [📝 Notes App](https://github.com/alokbhagat971-bit/Notes-App) | Create, search & delete notes with full user authentication | React, Node, Express, MongoDB, JWT |
-| [💸 Expense Manager](https://github.com/alokbhagat971-bit/Expense-Manager) | Track daily expenses — each user sees only their own data | React, Node, Express, MongoDB, JWT |
-| [📅 Expert Session Booking](https://github.com/alokbhagat971-bit/Expert-session-booking) | Real-time session booking platform with concurrency handling & pagination | React, Node, Express, MongoDB |
+### 🔵 Full-Stack MERN
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📝 Notes App</h3>
+      <p align="center">
+        Full-stack notes application with JWT authentication. Create, search and delete notes with a clean responsive UI.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+        <br/><br/>
+        <a href="https://github.com/alokbhagat971-bit/Notes-App">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💸 Expense Manager</h3>
+      <p align="center">
+        Track daily expenses with user-specific data isolation and secure authentication.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+        <br/><br/>
+        <a href="https://github.com/alokbhagat971-bit/Expense-Manager">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h3 align="center">📅 Expert Session Booking</h3>
+      <p align="center">
+        Real-time expert session booking platform with concurrency handling to prevent double bookings and efficient pagination.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+        <br/><br/>
+        <a href="https://github.com/alokbhagat971-bit/Expert-session-booking">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### 🤖 Machine Learning / AI
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🚗 Car Price Predictor](https://github.com/alokbhagat971-bit/Car-Price-Predictor) | AI-powered used car resale value estimator with vehicle analysis breakdown | React + Vite, Flask, Scikit-learn, Python |
-| [📊 FriedMan ML Project](https://github.com/alokbhagat971-bit/FriedMan-ML-project) | Regression model on Friedman synthetic dataset — R² Score: 0.77 | Python, Scikit-learn, Pandas, Matplotlib |
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚗 Car Price Predictor</h3>
+      <p align="center">
+        AI-powered used car resale value estimator. Input car details → get instant price prediction + full vehicle analysis breakdown.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <br/><br/>
+        <a href="https://github.com/alokbhagat971-bit/Car-Price-Predictor">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 FriedMan ML Project</h3>
+      <p align="center">
+        Regression model on the Friedman synthetic dataset. End-to-end ML pipeline with evaluation, visualization and metrics.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/R²_Score-0.77-3FB950?style=flat-square"/>
+        <br/><br/>
+        <a href="https://github.com/alokbhagat971-bit/FriedMan-ML-project">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 🟡 Frontend / API Projects
+### 🟡 Frontend & API Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🎬 Movie App](https://github.com/alokbhagat971-bit/Movie-App) | Search movies, view poster, rating & overview via live API | HTML, CSS, JavaScript |
-| [🌤️ Weather App](https://github.com/alokbhagat971-bit/Weather-app) | Real-time weather with audio/visual effects by condition | HTML, CSS, JavaScript |
-| [🎨 Picker App](https://github.com/alokbhagat971-bit/Picker-App) | React utility app for picking/selecting items | React, Vite, JavaScript |
-| [📚 Course App 2.0](https://github.com/alokbhagat971-bit/course-2.0) | React + Vite course/content UI — deployed on Vercel | React, Vite, CSS |
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">🎬 Movie App</h3>
+      <p align="center">
+        Search movies, view posters, ratings & overviews via live API. DOM-based dynamic UI.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <br/><br/>
+        <a href="https://github.com/alokbhagat971-bit/Movie-App">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🌤️ Weather App</h3>
+      <p align="center">
+        Real-time weather with dynamic audio and visual effects based on current conditions.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <br/><br/>
+        <a href="https://github.com/alokbhagat971-bit/Weather-app">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🎨 Picker App</h3>
+      <p align="center">
+        React utility app for smart item picking and selection. Built with Vite for fast dev experience.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <br/><br/>
+        <a href="https://github.com/alokbhagat971-bit/Picker-App">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 🟢 Fun & Practice
+### 🎮 Just For Fun
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🎲 Ludo Game](https://github.com/alokbhagat971-bit/Ludo_Game) | Fully playable browser Ludo with complete game logic | HTML, CSS, JavaScript |
-| [🧮 Calculator](https://github.com/alokbhagat971-bit/Calculator) | Functional calculator — deployed on Vercel | Java |
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎲 Ludo Game</h3>
+      <p align="center">
+        Fully playable browser-based Ludo game with complete game logic, dice rolls, piece movement and win detection.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <br/><br/>
+        <a href="https://github.com/alokbhagat971-bit/Ludo_Game">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧮 Calculator</h3>
+      <p align="center">
+        Clean functional calculator built in Java and deployed live on Vercel. My first deployed project!
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Deployed-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+        <br/><br/>
+        <a href="https://github.com/alokbhagat971-bit/Calculator">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 📌 First Steps
+</div>
 
-| Project | Description |
-|---------|-------------|
-| [alokbhagat-projects](https://github.com/alokbhagat971-bit/alokbhagat-projects) | My very first Git repository — where it all started |
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Alok's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alokbhagat971-bit&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alok's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alokbhagat971-bit&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 My Contributions Being Devoured
 
 <div align="center">
 
@@ -139,34 +291,50 @@ A self-driven developer who builds real-world projects across the full stack —
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💬 What I'm Working Towards
-
-```text
-✅ Full-stack MERN apps with auth & user-specific data
-✅ Machine learning models with Scikit-learn & Python
-✅ REST APIs and async JavaScript
-✅ React + Vite frontend projects deployed on Vercel
-🔄 Improving deployment & CI/CD basics
-🔄 Exploring TypeScript
-⬜ Contributing to open source
-```
-
----
+## 🎯 Right Now
 
 <div align="center">
 
-### 🤝 Let's Connect
+| 🔨 Working On | 📖 Learning | 🎯 Goals |
+|---------------|-------------|----------|
+| Full Stack Internship @ IISPPR | ML Algorithms (Regression, Classification, Clustering) | Build a full-stack ML-integrated website for social good |
+| Production-grade React apps | OpenCV & Computer Vision | Deploy all my projects live |
+| ML model improvements | Deep Learning fundamentals | Contribute to open source |
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/alokbhagat971-bit)
+</div>
+
+---
+
+## 🤝 Let's Connect & Build Together
+
+<div align="center">
+
+*Open to collaborations, project discussions, or just a good tech conversation!*
 
 <br/>
 
-*"Every expert was once a beginner. Every pro was once an amateur."*
+<a href="https://www.linkedin.com/in/alok-bhagat-06a951306/">
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/alokk_k121/">
+  <img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/alokbhagat971-bit">
+  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=alokbhagat971-bit&label=Profile+Views&color=blueviolet&style=flat)
+---
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=58A6FF&fontAlignY=65&animation=twinkling" width="100%"/>
 
 </div>
