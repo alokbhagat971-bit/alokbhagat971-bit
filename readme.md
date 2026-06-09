@@ -49,7 +49,7 @@ const alok: Developer = {
     "🌍 Planning a full-stack ML app for social good",
   ],
 
-  funFact:  "I built a fully playable Ludo game in vanilla JS 🎲",
+  funFact:  "I built a fully playable Ludo game 🎲",
   motto:    "Tech should solve real problems. Build for impact. 🌍",
 };
 ```
